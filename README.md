@@ -6,9 +6,8 @@
 <h1 align="center">Hi 👋, I'm Tsur</h1>
 <h3 align="center">A passionate FullStack developer / DevOps from Israel</h3>
 
-- 🔭 I’m currently working on [Coding competition site](https://github.com/TsurHazan/Zionet_CodeCompetition)
-
-- 🌱 I’m currently learning **react,api,nginx**
+- 🔭 I’m currently working on GallerU startup
+- 🌱 I’m currently learning **Azure, dapr, Semantic Kernel**
 
 - 📫 How to reach me **tsur1873@gmail.com**
 
