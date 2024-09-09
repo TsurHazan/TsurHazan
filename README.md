@@ -2,7 +2,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Tsur</h1>
-<h3 align="center">A passionate FullStack developer / DevOps from Israel</h3>
+<h3 align="center">A passionate DevOps Engineer from Israel</h3>
 
 - 🔭 I’m currently working on TrialKit startup as DevOps
 - 🌱 I’m currently learning **Azure, dapr, Kubernetes, Helm**
