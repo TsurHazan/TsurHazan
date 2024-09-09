@@ -4,8 +4,8 @@
 <h1 align="center">Hi 👋, I'm Tsur</h1>
 <h3 align="center">A passionate FullStack developer / DevOps from Israel</h3>
 
-- 🔭 I’m currently working on GallerU startup as DevOps
-- 🌱 I’m currently learning **Azure, dapr, Semantic Kernel**
+- 🔭 I’m currently working on TrialKit startup as DevOps
+- 🌱 I’m currently learning **Azure, dapr, Kubernetes, Helm**
 
 - 📫 How to reach me **tsur1873@gmail.com**
 
