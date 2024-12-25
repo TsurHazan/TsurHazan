@@ -5,11 +5,7 @@
 <h3 align="center">A passionate DevOps Engineer from Israel</h3>
 
 - 🔭 I’m currently working on TrialKit startup as DevOps
-- 🌱 I’m currently learning **Azure, dapr, Kubernetes, Helm**
-
-- 📫 How to reach me **tsur1873@gmail.com**
-
-- ⚡ Fun fact **I love football**
+- 🌱 I’m currently learning **Azure, Kubernetes, Helm, terraform**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
